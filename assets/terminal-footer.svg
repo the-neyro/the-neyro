@@ -38,7 +38,7 @@
   <!-- terminal content -->
   <g class="prompt">
     <text x="16" y="58"><tspan class="ps">PS </tspan><tspan class="path">C:\Users\Alex&gt;</tspan><tspan class="cmd"> cat kontakt.txt</tspan></text>
-    <text x="16" y="88" class="out">E-Mail   : vechno.modern@gmail.com</text>
+    <text x="16" y="88" class="out">E-Mail   : officialneyro@outlook.com</text>
     <text x="16" y="108" class="out">GitHub   : <tspan class="accent">github.com/the-neyro</tspan></text>
 
     <text x="16" y="148"><tspan class="ps">PS </tspan><tspan class="path">C:\Users\Alex&gt;</tspan><tspan class="cmd"> echo "danke fürs vorbeischauen 👋"</tspan></text>

@@ -1,4 +1,4 @@
-<svg width="800" height="330" viewBox="0 0 800 330" xmlns="http://www.w3.org/2000/svg">
+<svg width="800" height="350" viewBox="0 0 800 350" xmlns="http://www.w3.org/2000/svg" xml:space="preserve">
   <defs>
     <style>
       .titlebar { fill: #1f1f1f; }
@@ -17,10 +17,10 @@
   </defs>
 
   <!-- window shadow -->
-  <rect x="4" y="4" width="792" height="322" rx="8" fill="#000000" opacity="0.4"/>
+  <rect x="4" y="4" width="792" height="342" rx="8" fill="#000000" opacity="0.4"/>
 
   <!-- window body -->
-  <rect x="0" y="0" width="796" height="318" rx="8" class="body"/>
+  <rect x="0" y="0" width="796" height="338" rx="8" class="body"/>
 
   <!-- title bar -->
   <path d="M0 8 Q0 0 8 0 H788 Q796 0 796 8 V32 H0 Z" class="titlebar"/>
@@ -45,13 +45,14 @@
     <text x="16" y="112"><tspan class="ps">PS </tspan><tspan class="path">C:\Users\Alex&gt;</tspan><tspan class="cmd"> cat status.txt</tspan></text>
     <text x="16" y="136" class="out">Fachinformatiker Anwendungsentwicklung (Umschulung)</text>
     <text x="16" y="156" class="out">Java · C# · TypeScript · JavaScript</text>
+    <text x="16" y="176" class="out">Python · PHP · SQL</text>
 
-    <text x="16" y="186"><tspan class="ps">PS </tspan><tspan class="path">C:\Users\Alex&gt;</tspan><tspan class="cmd"> ls .\projekte\</tspan></text>
-    <text x="16" y="210" class="out">crypto-tracker            [TypeScript]</text>
-    <text x="16" y="230" class="out">PointAndClickAdventure    [Java]</text>
-    <text x="16" y="250" class="out">NullPointerPanic-web      [JavaScript]</text>
-    <text x="16" y="270" class="out">projekt_php               [PHP]</text>
+    <text x="16" y="206"><tspan class="ps">PS </tspan><tspan class="path">C:\Users\Alex&gt;</tspan><tspan class="cmd"> ls .\projekte\</tspan></text>
+    <text x="16" y="230" class="out">NullPointerPanic-web      [JavaScript]</text>
+    <text x="16" y="250" class="out">PointAndClickAdventure    [Java]</text>
+    <text x="16" y="270" class="out">crypto-tracker            [TypeScript]</text>
+    <text x="16" y="290" class="out">projekt_php               [PHP]</text>
 
-    <text x="16" y="300"><tspan class="ps">PS </tspan><tspan class="path">C:\Users\Alex&gt;</tspan><tspan class="cmd"> _</tspan></text>
+    <text x="16" y="320"><tspan class="ps">PS </tspan><tspan class="path">C:\Users\Alex&gt;</tspan><tspan class="cmd"> _</tspan></text>
   </g>
 </svg>
