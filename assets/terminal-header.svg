@@ -27,7 +27,7 @@
 
   <!-- tab -->
   <rect x="8" y="6" width="150" height="24" rx="4" class="tab"/>
-  <text x="20" y="22" class="tabtext">Windows PowerShell</text>
+  <text x="20" y="22" class="tabtext">bash</text>
 
   <!-- window control buttons -->
   <g stroke="#cccccc" stroke-width="1.4" fill="none">
@@ -39,20 +39,20 @@
 
   <!-- terminal content -->
   <g class="prompt">
-    <text x="16" y="58"><tspan class="ps">PS </tspan><tspan class="path">C:\Users\Alex&gt;</tspan><tspan class="cmd"> whoami</tspan></text>
+    <text x="16" y="58"><tspan class="ps">the-neyro@github</tspan><tspan class="path">:~$</tspan><tspan class="cmd"> whoami</tspan></text>
     <text x="16" y="82" class="accent">the-neyro</text>
 
-    <text x="16" y="112"><tspan class="ps">PS </tspan><tspan class="path">C:\Users\Alex&gt;</tspan><tspan class="cmd"> cat status.txt</tspan></text>
+    <text x="16" y="112"><tspan class="ps">the-neyro@github</tspan><tspan class="path">:~$</tspan><tspan class="cmd"> cat status.txt</tspan></text>
     <text x="16" y="136" class="out">Fachinformatiker Anwendungsentwicklung (Umschulung)</text>
     <text x="16" y="156" class="out">Java · C# · TypeScript · JavaScript</text>
     <text x="16" y="176" class="out">Python · PHP · SQL</text>
 
-    <text x="16" y="206"><tspan class="ps">PS </tspan><tspan class="path">C:\Users\Alex&gt;</tspan><tspan class="cmd"> ls .\projekte\</tspan></text>
+    <text x="16" y="206"><tspan class="ps">the-neyro@github</tspan><tspan class="path">:~$</tspan><tspan class="cmd"> ls ~/projekte/</tspan></text>
     <text x="16" y="230" class="out">NullPointerPanic-web      [JavaScript]</text>
     <text x="16" y="250" class="out">PointAndClickAdventure    [Java]</text>
     <text x="16" y="270" class="out">crypto-tracker            [TypeScript]</text>
     <text x="16" y="290" class="out">Simple                    [PHP]</text>
 
-    <text x="16" y="320"><tspan class="ps">PS </tspan><tspan class="path">C:\Users\Alex&gt;</tspan><tspan class="cmd"> _</tspan></text>
+    <text x="16" y="320"><tspan class="ps">the-neyro@github</tspan><tspan class="path">:~$</tspan><tspan class="cmd"> _</tspan></text>
   </g>
 </svg>

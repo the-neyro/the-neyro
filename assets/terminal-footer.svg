@@ -25,7 +25,7 @@
 
   <!-- tab -->
   <rect x="8" y="6" width="150" height="24" rx="4" class="tab"/>
-  <text x="20" y="22" class="tabtext">Windows PowerShell</text>
+  <text x="20" y="22" class="tabtext">bash</text>
 
   <!-- window control buttons -->
   <g stroke="#cccccc" stroke-width="1.4" fill="none">
@@ -37,13 +37,13 @@
 
   <!-- terminal content -->
   <g class="prompt">
-    <text x="16" y="58"><tspan class="ps">PS </tspan><tspan class="path">C:\Users\Alex&gt;</tspan><tspan class="cmd"> cat kontakt.txt</tspan></text>
+    <text x="16" y="58"><tspan class="ps">the-neyro@github</tspan><tspan class="path">:~$</tspan><tspan class="cmd"> cat kontakt.txt</tspan></text>
     <text x="16" y="88" class="out">E-Mail   : officialneyro@outlook.com</text>
     <text x="16" y="108" class="out">GitHub   : <tspan class="accent">github.com/the-neyro</tspan></text>
 
-    <text x="16" y="148"><tspan class="ps">PS </tspan><tspan class="path">C:\Users\Alex&gt;</tspan><tspan class="cmd"> echo "danke fürs vorbeischauen 👋"</tspan></text>
+    <text x="16" y="148"><tspan class="ps">the-neyro@github</tspan><tspan class="path">:~$</tspan><tspan class="cmd"> echo "danke fürs vorbeischauen 👋"</tspan></text>
     <text x="16" y="172" class="out">danke fürs vorbeischauen 👋</text>
 
-    <text x="16" y="210"><tspan class="ps">PS </tspan><tspan class="path">C:\Users\Alex&gt;</tspan><tspan class="cmd"> _</tspan></text>
+    <text x="16" y="210"><tspan class="ps">the-neyro@github</tspan><tspan class="path">:~$</tspan><tspan class="cmd"> _</tspan></text>
   </g>
 </svg>
