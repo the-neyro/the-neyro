@@ -44,14 +44,14 @@
 
     <text x="16" y="112"><tspan class="ps">PS </tspan><tspan class="path">C:\Users\Alex&gt;</tspan><tspan class="cmd"> cat status.txt</tspan></text>
     <text x="16" y="136" class="out">Fachinformatiker Anwendungsentwicklung (Umschulung)</text>
-    <text x="16" y="156" class="out">Java · C# · TypeScript · JavaScript</text>
-    <text x="16" y="176" class="out">Python · PHP · SQL</text>
+    <text x="16" y="156"><tspan class="accent">currently learning</tspan><tspan class="out"> : React</tspan></text>
+    <text x="16" y="176"><tspan class="accent">working with      </tspan><tspan class="out"> : Java · TypeScript · PHP · MySQL · C#</tspan></text>
 
     <text x="16" y="206"><tspan class="ps">PS </tspan><tspan class="path">C:\Users\Alex&gt;</tspan><tspan class="cmd"> ls .\projekte\</tspan></text>
-    <text x="16" y="230" class="out">NullPointerPanic-web      [JavaScript]</text>
-    <text x="16" y="250" class="out">PointAndClickAdventure    [Java]</text>
-    <text x="16" y="270" class="out">crypto-tracker            [TypeScript]</text>
-    <text x="16" y="290" class="out">projekt_php               [PHP]</text>
+    <text x="16" y="230" class="out">NullPointerPanic    [React]</text>
+    <text x="16" y="250" class="out">Stranded &amp; Sober    [Java]</text>
+    <text x="16" y="270" class="out">Crypto Tracker      [TypeScript]</text>
+    <text x="16" y="290" class="out">Simple              [PHP · MySQL]</text>
 
     <text x="16" y="320"><tspan class="ps">PS </tspan><tspan class="path">C:\Users\Alex&gt;</tspan><tspan class="cmd"> _</tspan></text>
   </g>
