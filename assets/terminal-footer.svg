@@ -1,0 +1,49 @@
+<svg width="800" height="250" viewBox="0 0 800 250" xmlns="http://www.w3.org/2000/svg" xml:space="preserve">
+  <defs>
+    <style>
+      .titlebar { fill: #1f1f1f; }
+      .body { fill: #0c0c0c; }
+      .prompt { font-family: 'Cascadia Code', 'Consolas', monospace; font-size: 15px; }
+      .ps { fill: #13a10e; }
+      .path { fill: #3b78ff; }
+      .cmd { fill: #e5e5e5; }
+      .out { fill: #cccccc; }
+      .accent { fill: #61d6d6; }
+      .tab { fill: #2d2d2d; }
+      .tabtext { fill: #cccccc; font-family: 'Segoe UI', sans-serif; font-size: 12px; }
+    </style>
+  </defs>
+
+  <!-- window shadow -->
+  <rect x="4" y="4" width="792" height="242" rx="8" fill="#000000" opacity="0.4"/>
+
+  <!-- window body -->
+  <rect x="0" y="0" width="796" height="238" rx="8" class="body"/>
+
+  <!-- title bar -->
+  <path d="M0 8 Q0 0 8 0 H788 Q796 0 796 8 V32 H0 Z" class="titlebar"/>
+
+  <!-- tab -->
+  <rect x="8" y="6" width="150" height="24" rx="4" class="tab"/>
+  <text x="20" y="22" class="tabtext">Windows PowerShell</text>
+
+  <!-- window control buttons -->
+  <g stroke="#cccccc" stroke-width="1.4" fill="none">
+    <line x1="700" y1="14" x2="712" y2="14"/>
+    <rect x="734" y="8" width="12" height="12"/>
+    <line x1="768" y1="8" x2="780" y2="20"/>
+    <line x1="780" y1="8" x2="768" y2="20"/>
+  </g>
+
+  <!-- terminal content -->
+  <g class="prompt">
+    <text x="16" y="58"><tspan class="ps">PS </tspan><tspan class="path">C:\Users\Alex&gt;</tspan><tspan class="cmd"> cat kontakt.txt</tspan></text>
+    <text x="16" y="88" class="out">E-Mail   : vechno.modern@gmail.com</text>
+    <text x="16" y="108" class="out">GitHub   : <tspan class="accent">github.com/the-neyro</tspan></text>
+
+    <text x="16" y="148"><tspan class="ps">PS </tspan><tspan class="path">C:\Users\Alex&gt;</tspan><tspan class="cmd"> echo "danke fürs vorbeischauen 👋"</tspan></text>
+    <text x="16" y="172" class="out">danke fürs vorbeischauen 👋</text>
+
+    <text x="16" y="210"><tspan class="ps">PS </tspan><tspan class="path">C:\Users\Alex&gt;</tspan><tspan class="cmd"> _</tspan></text>
+  </g>
+</svg>

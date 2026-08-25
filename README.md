@@ -4,19 +4,6 @@
 
 <br>
 
-```bash
-PS C:\Users\Alex> cat kontakt.txt
-```
-
-```
-E-Mail   : vechno.modern@gmail.com
-GitHub   : github.com/the-neyro
-```
-
 <div align="center">
-
-```
-PS C:\Users\Alex> echo "danke fürs vorbeischauen 👋"
-```
-
+  <img src="./assets/terminal-footer.svg" alt="Kontakt" width="100%">
 </div>
