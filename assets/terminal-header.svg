@@ -48,10 +48,11 @@
     <text x="16" y="176" class="out">Python · PHP · SQL</text>
 
     <text x="16" y="206"><tspan class="ps">the-neyro@github</tspan><tspan class="path">:~$</tspan><tspan class="cmd"> ls ~/projekte/</tspan></text>
+    <text x="16" y="290" class="out">Nextfix                   [Python]</text>
     <text x="16" y="230" class="out">NullPointerPanic-web      [JavaScript]</text>
     <text x="16" y="250" class="out">PointAndClickAdventure    [Java]</text>
-    <text x="16" y="270" class="out">crypto-tracker            [TypeScript]</text>
-    <text x="16" y="290" class="out">Simple                    [PHP]</text>
+    
+    
 
     <text x="16" y="320"><tspan class="ps">the-neyro@github</tspan><tspan class="path">:~$</tspan><tspan class="cmd"> _</tspan></text>
   </g>
