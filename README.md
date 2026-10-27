@@ -1,4 +1,4 @@
-<img src="./assets/sunset-shell/banner.png" alt="the-neyro — Code after sunset. Pixel-Art am Meer bei Sonnenuntergang." width="100%">
+<img src="./assets/sunset-shell/banner-v2.png" alt="the-neyro — bin gleich fertig. Pixel-Art am Meer bei Sonnenuntergang." width="100%">
 
 <picture>
   <source media="(max-width: 600px)" srcset="./assets/sunset-shell/about-mobile.svg">
