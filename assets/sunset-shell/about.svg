@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="232" viewBox="0 0 1000 232" role="img" aria-labelledby="title">
+<title id="title">the-neyro — Fachinformatiker Anwendungsentwicklung (Umschulung). Java, C#, TypeScript, JavaScript, Python, PHP, SQL.</title>
+<style>text{font-family:Menlo,Consolas,'Liberation Mono',monospace;fill:#f3e8d2}.muted{fill:#b0a6bd}.peach{fill:#ff9b76}.cyan{fill:#86c9cf}</style>
+<rect x="1" y="1" width="998" height="230" rx="14" fill="#10111c" stroke="#59405e" stroke-width="2"/><path d="M15 1 H985 Q999 1 999 15 V48 H1 V15 Q1 1 15 1" fill="#2a2035"/><circle cx="25" cy="25" r="6" fill="#ef796e"/><circle cx="47" cy="25" r="6" fill="#efbc70"/><circle cx="69" cy="25" r="6" fill="#83bda4"/><text x="96" y="32" font-size="19" class="muted">neyro@sunset ~</text><text x="24" y="90" font-size="24" class="peach">$ whoami</text><text x="24" y="126" font-size="26">Fachinformatiker Anwendungsentwicklung</text><text x="24" y="157" font-size="21" class="muted">Umschulung</text><text x="24" y="201" font-size="23" class="cyan">Java · C# · TypeScript · JavaScript · Python · PHP · SQL</text>
+</svg>

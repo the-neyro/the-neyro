@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="108" viewBox="0 0 1000 108" role="img" aria-labelledby="title">
+<title id="title">NullPointerPanic-web — Gamifizierte IHK-Lernplattform · Teamprojekt — JavaScript</title>
+<style>text{font-family:Menlo,Consolas,'Liberation Mono',monospace;fill:#f3e8d2}.muted{fill:#b0a6bd}.peach{fill:#ff9b76}.cyan{fill:#86c9cf}</style>
+<rect x="1" y="1" width="998" height="106" rx="12" fill="#10111c" stroke="#393248" stroke-width="2"/><path d="M25 30 h17 l6 6 h20 v31 H25z" fill="#ff9b76"/><text x="90" y="49" font-size="28">NullPointerPanic-web</text><text x="90" y="82" font-size="21" class="muted">Gamifizierte IHK-Lernplattform · Teamprojekt</text><text x="952" y="49" text-anchor="end" font-size="21" class="peach">JavaScript  ↗</text>
+</svg>
